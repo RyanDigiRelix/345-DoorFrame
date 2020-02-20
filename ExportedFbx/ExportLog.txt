@@ -1,0 +1,6 @@
+...
+1 StaticMesh(s) | 0 SkeletalMesh(s) | 0 Alembic(s) | 0 Animation(s) | 0 Camera(s) | 0 Other(s)
+
+[StaticMesh] -> "SM_DoorFrame.fbx" exported in 0.03125 sec.
+E:\Tools\GitKrakenRepo\345-DoorFrame\345-DoorFrame\ExportedFbx\StaticMesh
+
